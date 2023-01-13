@@ -26,12 +26,14 @@ url: "https://yafetn.github.io" # the base hostname & protocol for your site, e.
 github_username:  yafetn
 
 # Build settings
-theme: minima
 plugins:
   - jekyll-feed
+  - jekyll-remote-theme
+
+remote_theme: jekyll/minima
 
 minima:
-  skin: solarized-dark
+  skin: solarized-light
   date_format: "%b %-d, %Y"
 
 # Exclude from processing.
