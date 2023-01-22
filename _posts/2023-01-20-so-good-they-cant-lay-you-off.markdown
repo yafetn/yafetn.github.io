@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "So Good They Can't Lay You Off"
+title:  "So Good They Can't Lay You Off?"
 date: 2023-01-20
 tags: work layoffs
 ---
@@ -21,8 +21,8 @@ The truth of the matter is, I was not irreplaceable at work. In the words of Cal
  However, I can vouch for those qualities not being enough to save one from the proverbial axe, on 
  account of several aquintances that have also been laid off who possessed incredible skills. So what gives?
 
-People with enough career capital stored up may get laid off just like the rest, but I figure it does 
-not affect them as negatively as it does others. Professional networks can be tapped for new opportunities, relevant skills turned into a new venture, or something else conjured up. In the end, it 
+Sure, people with enough career capital stored up may get laid off just like the rest, but I figure it
+ does not affect them as negatively as it does others. Their professional networks can be tapped for new opportunities, relevant skills turned into a new venture, or something else conjured up. In the end, it 
 becomes a simple turning page in one's career as oppossed to a significant hurdle to overcome. While they may not be able to avoid getting laid off -- as these things tend to be haphazard -- they don't become 
 _laid off_.
 
