@@ -5,6 +5,9 @@ date: 2023-01-20
 tags: work layoffs
 ---
 
+![](/assets/img-broadway-and-cedar.jpeg)
+
+
 We already know that you can be [So Good They Can't Ignore You][So Good They Can't Ignore You] 
 (book review hopefully coming soon!), but can you be <strong>So Good They Can't Lay _You_ Off</strong> either?
 

@@ -5,6 +5,8 @@ date: 2023-01-12
 tags: sbe "simple binary encoding"
 ---
 
+![](/assets/img-lamppost.jpeg)
+
 ### Introduction
 Simple Binary Encoding (SBE) is a codec format specified by the Financial 
 Information eXchange (FIX) Trading Community for use in high-performance trading systems. 
