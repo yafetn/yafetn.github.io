@@ -1,0 +1,20 @@
+---
+layout: post
+title:  "The Unreasonable Effectiveness of Simple Binary Encoding (SBE) II"
+date: 2023-01-25
+tags: sbe "simple binary encoding"
+---
+
+Part I of this installment can be found [here][Part I].
+
+We looked at how JSON repeats the `key=value` structure, which makes the codec human 
+readable but is very inefficient. And we also introduced the notion of a schema that's shared 
+with the decoder separately from the data it needs to decode. The schema lays out the ordering 
+and lengths of the different values that the decoder may encounter in a payload, and 
+that's how something like `value1|value2|value3|...` could be understood by the receiving 
+system.
+
+### So what?
+
+
+[Part I]: {% post_url 2023-01-12-sbe-i %}

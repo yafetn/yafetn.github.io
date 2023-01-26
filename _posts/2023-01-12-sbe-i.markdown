@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The Unreasonable Effectiveness of Simple Binary Encoding (SBE)"
+title:  "The Unreasonable Effectiveness of Simple Binary Encoding (SBE) I"
 date: 2023-01-12
 tags: sbe "simple binary encoding"
 ---
