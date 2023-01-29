@@ -33,4 +33,4 @@ My hope is to adopt the _craftman mindset_ as Newport describes it, and engage i
 where I can so that even if I get laid off again, I don't end up _laid off_.
 
 
-[So Good They Can't Ignore You]: [https://www.calnewport.com/books/so-good/]
+[So Good They Can't Ignore You]: https://www.calnewport.com/books/so-good/
